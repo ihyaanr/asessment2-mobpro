@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Item Reminder</string>
+    <item name="btn_backtoTask" type="id" />
+    <item name="btn_addlist" type="id" />
+    <item name="etaddlist" type="id" />
+    <item name="list_itemreminder" type="id" />
+    <item name="btn_finishreminder" type="id" />
+</resources>

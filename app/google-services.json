@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131571597113",
+    "project_id": "item-reminder-fb660",
+    "storage_bucket": "item-reminder-fb660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131571597113:android:53218f9aa149f52fe132e8",
+        "android_client_info": {
+          "package_name": "org.d3if2005.itemreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131571597113-4e4packb696p5s93ec8p1n3k280mheri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvm7pwBEz4RsExD4Qj441yv8gD7wjBI3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131571597113-4e4packb696p5s93ec8p1n3k280mheri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
